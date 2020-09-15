@@ -1,0 +1,18 @@
+offer	product	variant	tag
+photostick	ThePhotoStick8	31081205778	rp: 39.99, wp: 5.75, wt: 0.04
+photostick	ThePhotoStickÂ® 64 - 50% Off	1338163789842	rp: 49.99, rp: 99.99, wt: 0.04
+photostick	ThePhotoStickÂ® 8 - 50% Off	7262161469475	adv:19.99, rp: 29.99, wp: 5.75, wt: 0.04
+photostick	ThePhotoStickÂ® 128 - 50% Off	7262167531555	rp: 79.99, wp: 14.95, wt: 0.04
+photostick	ThePhotoStickÂ® - Xtra-PCÂ® - Turbo 16	12441608290339	rp: 49.99, wp: 5.18, wt: 0.04
+photostick	ThePhotoStickÂ® - Xtra-PCÂ® - Turbo 32	12441608323107	rp: 89.99, wp: 8.97, wt: 0.04
+photostick	ThePhotoStickÂ® - Xtra-PCÂ® - Pro-64	12441608355875	rp: 159.99, wp: 18.40
+photostick	ThePhotoStick8	14093507952675	rp: 49.99, wp: 5.75, wt: 0.04
+photostick	ThePhotoStickÂ® 8 - 50% Off	14093825277987	rp: 34.99, wp: 5.75, wt: 0.04
+photostick	ThePhotoStickÂ® 128 - FREE!	14093961527331	rp: 159.99, wp: 14.95, wt: 0.04
+photostick	ThePhotoStick64	14093989412899	rp: 79.99, rp: 99.99, wt: 0.04
+photostick	ThePhotoStickÂ® 64 - FREE!	14094006583331	rp: 79.99, rp: 99.99, wt: 0.04
+photostick	ThePhotoStickÂ® 128 - 40% Off	14341710512163	rp: 79.99, wp: 14.95, wt: 0.04
+photostick	ThePhotoStickÂ® 8 - 40% Off	14341737447459	adv:24.99, rp: 29.99, wp: 5.75, wt: 0.04
+photostick	ThePhotoStickÂ® 64 - 40% Off	14341741084707	rp: 49.99, wp: 8.05
+photostick	ThePhotoStick® 1TB	31661911408675	rp: 300.00, wp: 65.00, wt: 0.38
+photostick	ThePhotoStick® 1TB - 40% Off	31661924843555	rp: 149.99, wp: 65.00, wt: 0.38
